@@ -73,12 +73,6 @@ ColourNote ("red", "blue", "Attack Spell set to : %1")</send>
   </alias>
 </aliases>
 
-<!--  Variables  -->
-
-<variables>
-  <variable name="attack_spell">nothing</variable>
-</variables>
-
 <!--  Plugin help  -->
 
 <aliases>
